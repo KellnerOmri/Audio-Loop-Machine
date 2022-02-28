@@ -1,0 +1,46 @@
+
+.image_size {
+   height: 20px;width: 20px;
+}
+
+.Volume_container{
+   background-color: aliceblue;
+   border-radius: 10px;
+   height: 22px;
+   align-items: center;
+   margin-top: 8px;
+   padding-left: 7px;
+}
+
+.Song_Slide_container{
+   flex-direction: row;
+   flex: 1;
+   justify-content: space-around;
+   text-align: center;
+   align-items: center;
+   padding-left: 40px;
+   padding-right: 40px;
+   display: flex;
+}
+.Container {
+   padding-bottom: 10px;
+   padding-top: 10px;
+   flex-direction: row;
+   flex: 1;
+   display: flex;
+   padding-right: 40px;
+   padding-left: 40px;
+   border-radius: 30px;
+   background-color: aliceblue;
+
+}
+
+.color_picker{
+   margin-left: 30px;
+}
+
+.slider_style{
+   flex: 1;
+   margin-left:8%;
+   margin-right:8%;
+}

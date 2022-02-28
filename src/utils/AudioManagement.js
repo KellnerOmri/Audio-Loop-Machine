@@ -1,0 +1,9 @@
+export const tambourine_shake_higher = require('../Audio/_tambourine_shake_higher.mp3');
+export const all_track = require('../Audio/ALL TRACK.mp3');
+export const b_voc = require('../Audio/B VOC.mp3');
+export const drums = require('../Audio/DRUMS.mp3');
+export const he_he_voc = require('../Audio/HE HE VOC.mp3');
+export const high_voc = require('../Audio/HIGH VOC.mp3');
+export const jibrish = require('../Audio/JIBRISH.mp3');
+export const lead_1 = require('../Audio/LEAD 1.mp3');
+export const uuho_voc = require('../Audio/UUHO VOC.mp3');

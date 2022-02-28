@@ -1,0 +1,17 @@
+.App {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    background: brown;
+}
+
+.img_logo {
+    width: 175px;
+    height: 90px;
+}
+
+.author_name{
+    color: white;
+    font-family: 'Hanalei Fill', cursive;
+
+}

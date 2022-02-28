@@ -1,0 +1,35 @@
+.Main_container {
+    background-color: brown
+}
+
+.Song_style {
+    margin-bottom: 10px;
+}
+
+.Bottom_Container {
+    text-align: center;
+    background: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 40px;
+    padding-inline-start: 500px;
+    padding-inline-end: 500px;
+    justify-content: space-around;
+    flex: 1;
+    display: flex;
+    border-radius: 30px;
+}
+
+.img_style {
+    width: 40px;
+    height: 40px;
+}
+
+.main_slider{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+}
